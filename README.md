@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Demo 
+
+The project is now complete and can be demoed [here](https://nextfireblog-hazel.vercel.app/) 
+
+I will not be taking this project further for now beause doing so will require further fimiliarisation of firebase, including firebase security rules etc, because firebase is not widley used in industry, I feel it is not a great use of my time to continue learning this platform for now. 
+
+The project is fully functional, you can create an account, write posts, view posts, like posts (max one like per post). 
+
 ## Getting Started
 
 First, run the development server:
